@@ -16,3 +16,4 @@ src/codetext.egg-info/*
 
 /models
 /.neptune/
+*.log
